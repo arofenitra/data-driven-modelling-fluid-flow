@@ -6,3 +6,6 @@ seaborn
 scikit-learn
 pysindy
 pydmd
+ipykernel
+jupyter
+ipython
