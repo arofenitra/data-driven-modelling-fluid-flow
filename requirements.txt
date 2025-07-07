@@ -1,4 +1,8 @@
-numpy
+numpy<2
+cudf-cu12 
+cuml-cu12
+jax[cuda12]
+cupy-cuda12x
 pandas
 scipy
 matplotlib
@@ -9,3 +13,4 @@ pydmd
 ipykernel
 jupyter
 ipython
+torch
